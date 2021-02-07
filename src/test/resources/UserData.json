@@ -1,0 +1,11 @@
+{
+    "firstName": "Test",
+    "lastName": "Elek",
+    "password": "secret",
+    "address1": "Somewhere Over the Rainbow",
+    "city": "Sweet Home Alabama",
+    "state": "Alabama",
+    "postalCode": "13337",
+    "country": "United States",
+    "mobilePhone": "06111111"
+}
